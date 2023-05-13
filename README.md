@@ -27,7 +27,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript, Postgres, Dockerfile, Docker-compose starter repository.
+[Nest](https://github.com/nestjs/nest) framework installed TypeScript, Postgres, Dockerfile, Docker-compose boilerplate template repository.
 
 ## Start your development with docker compose
 ### Installed in project
